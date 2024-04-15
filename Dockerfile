@@ -1,3 +1,4 @@
+# builder image
 FROM caddy:builder-alpine AS builder
 
 RUN xcaddy build \
