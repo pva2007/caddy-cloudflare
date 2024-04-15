@@ -1,2 +1,2 @@
 # caddy-cloudflare
-Caddy Server with Cloudflare Module
+Caddy Server with Cloudflare Module (multi-arch)
